@@ -4,4 +4,5 @@ ingredients list for cake:
 * butter
 * eggs
 * chocolate
+* vanilla extract
 
